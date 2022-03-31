@@ -9,3 +9,7 @@
 # npm install --save-dev @types/express @types/body-parser @types/dotenv
 
 # Run Server -> nodemon source/server.ts
+
+# Install sql -> npm install mysql
+# Install mysl type definitions -> npm insta @types/mysql
+
